@@ -1,6 +1,6 @@
 # Data_Analytics_Hepatitis
 
-## Datset
+# Datset
 The Hepatitis dataset is a dataset that contains information related to the diagnosis of hepatitis, a viral infection that affects the liver. It is commonly used in machine learning and data analysis tasks to study and predict the diagnosis of hepatitis based on various medical features.
 
 Here is a brief overview of the Hepatitis dataset:
@@ -25,7 +25,9 @@ The dataset may contain missing values that need to be handled appropriately bef
 The Hepatitis dataset is commonly used in the machine learning community and can be found in various repositories and datasets collections. The specific source of the dataset may vary, so it's important to refer to the dataset documentation or the source from where you obtained it.
 # Methedology :
 Random forest
+
 naive bayes
+
 Desion Tree
 
 ## Coclusion
