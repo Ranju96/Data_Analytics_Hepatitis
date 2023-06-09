@@ -23,7 +23,7 @@ The dataset may contain missing values that need to be handled appropriately bef
 
 ### Dataset Source: 
 The Hepatitis dataset is commonly used in the machine learning community and can be found in various repositories and datasets collections. The specific source of the dataset may vary, so it's important to refer to the dataset documentation or the source from where you obtained it.
-# Methedology :
+# Methodology :
 Random forest
 
 naive bayes
